@@ -1,0 +1,54 @@
+html{
+    font-family: 'DM Mono', monospace;
+    margin: 0;
+}
+
+#topBar{
+    height: 550px;
+    background: url(https://www.schulerhof.it/media/1acb4946-c1d6-412c-ad04-50c9f560cf7f/1903_x_580/oetzi-bike-shop-aussen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 130px;
+}
+
+#title{
+    margin: auto;
+    height: 100px;
+    width: 700px;
+    text-align: center;
+    background-color: azure;
+}
+
+h4{
+    text-align: center;
+    margin-top: 20px;
+}
+
+input{
+    width: 200px;
+}
+
+select{
+    width: 200px;
+}
+
+.label{
+    width: 130px;
+    padding-left: 20px;
+}
+
+table{
+    width: 100%;
+}
+
+input[type="checkbox"]{
+    width:50px;
+}
+input[type="radio"]{
+    width:50px;
+}
+
+#antifurto{
+    width: 300px;
+}
